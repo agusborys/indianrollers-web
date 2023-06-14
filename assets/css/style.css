@@ -52,8 +52,8 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #106eea;
-  border-top-color: #e2eefd;
+  border: 6px solid #222222;
+  border-top-color: #e9ecef;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -80,7 +80,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #106eea;
+  background: #222222;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -94,7 +94,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #3284f1;
+  background: #5f5f5f;
   color: #fff;
 }
 
@@ -491,7 +491,7 @@ h6 {
 }
 
 #hero h1 span {
-  color: rgb(95, 95, 95);
+  color: #5f5f5f;
 }
 
 #hero h2 {
@@ -512,11 +512,11 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #106eea;
+  background: #222222;
 }
 
 #hero .btn-get-started:hover {
-  background: #247cf0;
+  background: #5f5f5f;
 }
 
 #hero .btn-watch-video {
@@ -588,7 +588,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f9fe;
+  background-color: #f8f9fa;/*f6f9fe*/
 }
 
 .section-title {
@@ -602,8 +602,8 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: #e7f1fd;
-  color: #106eea;
+  background: #e9ecef;
+  color: #222222;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -616,7 +616,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #106eea;
+  color: #222222;
 }
 
 .section-title p {
