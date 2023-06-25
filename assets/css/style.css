@@ -1283,14 +1283,14 @@ section {
   border-radius: 4px;
   width: 36px;
   height: 36px;
-  background: rgba(16, 110, 234, 0.8);
+  background: #5f5f5f;
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
 }
 
 .team .member .social a:hover {
-  background: #3b8af2;
+  background: #5f5f5f;
 }
 
 .team .member .social i {
@@ -1514,10 +1514,10 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #106eea;
+  color: #444444;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #b3d1fa;
+  border: 2px dotted rgb(214, 215, 216);
 }
 
 .contact .info-box h3 {
@@ -1605,7 +1605,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #106eea;
+  background: #222222;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1614,7 +1614,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #3b8af2;
+  background: #222222;
 }
 
 @keyframes animate-loading {
@@ -1707,7 +1707,7 @@ section {
 }
 
 #footer .footer-top .footer-contact h3 span {
-  color: #106eea;
+  color: #222222;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1738,7 +1738,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #106eea;
+  color: #222222;
   font-size: 18px;
   line-height: 1;
 }
@@ -1762,13 +1762,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #106eea;
+  color: #222222;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #106eea;
+  background: #222222;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1781,7 +1781,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #3b8af2;
+  background: #5f5f5f;
   color: #fff;
   text-decoration: none;
 }
